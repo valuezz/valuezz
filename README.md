@@ -1,4 +1,4 @@
-- hi, I’m @valuezz!
+- hi, i’m @valuezz!
 - i’m interested in learning how to design websites!
 - i’m currently learning html, css, js, and python B)
 
